@@ -31,6 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -75,7 +76,7 @@ Publish the website in the LocalHost.
         </div>
 </body>
 </html>
-
+```
 ## OUTPUT:
 
 ![Screenshot (505)](https://github.com/D-I-V-Y-A-S/cover/assets/141506417/b0ef3167-92a9-42f0-833c-03d131640c35)
