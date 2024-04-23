@@ -100,6 +100,7 @@ Publish the website in the LocalHost.
 </html>
 ```
 ## OUTPUT:
+
 ![Screenshot 2024-04-23 193359](https://github.com/D-I-V-Y-A-S/cover/assets/141506417/1d1bd52f-3ad6-4152-9f6a-db99e519c68d)
 
 
